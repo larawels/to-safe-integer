@@ -1,0 +1,17 @@
+{
+  "name": "to-safe-integer",
+  "version": "1.0.0",
+  "description": "Converts any JavaScript value into an integer, safely",
+  "main": "src/index.js",
+  "files": ["src"],
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": ["integer", "number", "convert", "safe", "parseint"],
+  "license": "MIT",
+  "author": "TobyMaxham",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larawels/to-safe-integer.git"
+  }
+}
