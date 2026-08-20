@@ -1,13 +1,21 @@
 {
   "name": "to-safe-integer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts any JavaScript value into an integer, safely",
   "main": "src/index.js",
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "scripts": {
     "test": "node test/index.test.js"
   },
-  "keywords": ["integer", "number", "convert", "safe", "parseint"],
+  "keywords": [
+    "integer",
+    "number",
+    "convert",
+    "safe",
+    "parseint"
+  ],
   "license": "MIT",
   "author": "TobyMaxham",
   "repository": {
